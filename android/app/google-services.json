@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "961929780854",
+    "firebase_url": "https://crowdpatrol-34f3f.firebaseio.com",
+    "project_id": "crowdpatrol-34f3f",
+    "storage_bucket": "crowdpatrol-34f3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961929780854:android:874b93cc9e68fb85740957",
+        "android_client_info": {
+          "package_name": "com.CrowdPatrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXhwIdU9Wp6aeDkk2H8bf7KEbvMny8uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961929780854:android:52b62062cd030757740957",
+        "android_client_info": {
+          "package_name": "com.CrowdPatrol.CrowdPatrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXhwIdU9Wp6aeDkk2H8bf7KEbvMny8uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961929780854:android:c53d1131eb74b193740957",
+        "android_client_info": {
+          "package_name": "com.FireAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXhwIdU9Wp6aeDkk2H8bf7KEbvMny8uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961929780854:android:805a09dd9b9f2683740957",
+        "android_client_info": {
+          "package_name": "com.arms.crowd_patrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXhwIdU9Wp6aeDkk2H8bf7KEbvMny8uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961929780854:android:f282240efa4d429d740957",
+        "android_client_info": {
+          "package_name": "com.crowdPatrol.xamarinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961929780854-ho9818o4g3ukn49gtk5mjlb244r0mfgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crowdPatrol.xamarinfirebase",
+            "certificate_hash": "864ea5c40cd6235147a1c0301ff3a2b60492c855"
+          }
+        },
+        {
+          "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXhwIdU9Wp6aeDkk2H8bf7KEbvMny8uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961929780854-b9gmiqfgcdgugcj9qm79shg46f5p790c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
